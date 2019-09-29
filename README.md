@@ -10,7 +10,7 @@ A cooking app using React Navigation and Redux.
 - handling stack of screens for recipes, favorites and filters with createStackNavigator and createAppContainer.
 - using props.navigation to navigate between screens.
 - handling data from component to header with setParams and getParam.
-- customizing header title with navigationOptions.
+- custom header title with navigationOptions.
 - using react-native-screens for better performance.
 - custom buttons in the header with react-navigation-header-buttons.
 - adding bottom tabs with react-navigation-tabs.
@@ -20,7 +20,7 @@ A cooking app using React Navigation and Redux.
 ## Redux and React-Redux
 - using actions and reducers to store favorite recipes and filtered recipes.
 - handling logic to filter recipes.
-- using useSelector hook to get the stored state.
+- using useSelector hook to get the state.
 - using props.navigation to pass data to the header without re-render.
 - using useDispatch hook to dispatch actions. 
 - passing useDispatch to the header with useEffect and useCallback to limit re-render cycles.
