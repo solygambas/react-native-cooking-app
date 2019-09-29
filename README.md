@@ -31,5 +31,5 @@ A cooking app using React Navigation and Redux.
 - custom fonts and color constants.
 - using React hooks (useState, useEffect, useCallback).
 
-
+Based on [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) by Maximilian Schwarzmüller.
 
